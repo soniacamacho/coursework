@@ -1,0 +1,20 @@
+number of unique majors: 6
+sorted id numbers
+
+199822007
+199922004
+199922006
+199922007
+200722013
+200822013
+200922015
+
+sorted last names
+
+Bishop
+Cregg
+Dunham
+Knope
+Lyman
+Seaborn
+Ziegler

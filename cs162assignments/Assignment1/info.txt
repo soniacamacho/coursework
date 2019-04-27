@@ -1,0 +1,39 @@
+STATES IN ALPHABETICAL ORDER:
+Alaska
+Oregon
+
+STATES IN POPULATION ORDER:
+90
+1000000
+
+STATE WITH LARGEST POPULATION
+Oregon
+1000000
+
+COUNTIES IN POPULATION ORDER
+
+county:
+Aane
+Benton
+
+county:
+Anderson
+Pickens
+
+COUNTIES WITH LARGEST POPULATION:
+
+county:
+Benton
+
+county:
+Pickens
+
+COUNTIES IN ALPHABETICAL ORDER
+
+county:
+Aane
+Benton
+
+county:
+Anderson
+Pickens
